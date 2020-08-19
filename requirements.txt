@@ -1,0 +1,4 @@
+requests
+pybase64
+lxml
+qbittorrent-api
