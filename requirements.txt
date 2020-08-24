@@ -1,4 +1,5 @@
 requests
+PyMySQL
 pybase64
 lxml
 qbittorrent-api
