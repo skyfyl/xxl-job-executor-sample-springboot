@@ -3,3 +3,4 @@ PyMySQL
 pybase64
 lxml
 qbittorrent-api
+bs4
